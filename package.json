@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "moodle.org client for Node.js",
   "main": "main.js",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatmarcel/moodly"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -15,6 +22,10 @@
   ],
   "author": "thatmarcel",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatmarcel/moodly/issues"
+  },
+  "homepage": "https://github.com/thatmarcel/moodly",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
