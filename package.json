@@ -1,0 +1,21 @@
+{
+  "name": "moodly",
+  "version": "1.0.0",
+  "description": "moodle.org client for Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "moodle",
+    "moodle.org",
+    "moodle-client",
+    "school",
+    "education"
+  ],
+  "author": "thatmarcel",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
